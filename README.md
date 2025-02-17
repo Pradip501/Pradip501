@@ -6,14 +6,14 @@
 
 ## 🔧 Tech Stack & Tools
 
-- **Cloud:** AWS | Azure | Google Cloud Platform (GCP)
+- **Cloud:** AWS
 - **Containerization & Orchestration:** Docker | Kubernetes | Helm
 - **Infrastructure as Code (IaC):** Terraform | CloudFormation | Ansible
-- **CI/CD:** GitHub Actions | Jenkins | GitLab CI/CD | ArgoCD
-- **Monitoring & Logging:** Prometheus | Grafana | ELK Stack
-- **Scripting & Automation:** Bash | Python | PowerShell | Go
-- **Version Control:** Git | GitHub | GitLab | Bitbucket
-- **Security & Compliance:** Vault | Snyk | Trivy | CIS Benchmarks
+- **CI/CD:** GitHub Actions | Jenkins
+- **Monitoring & Logging:** Datadog 
+- **Scripting & Automation:** Bash | Python | PowerShell 
+- **Version Control:** Git | GitHub | GitLab 
+- **Security & Compliance:**  Trivy
 
 ---
 
